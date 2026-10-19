@@ -1,0 +1,56 @@
+Question 1: What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+
+Conclusion: Most students mentioned reviewing notes, checking their computers, and making sure they are ready before class starts.
+Visualization: The word cloud is helpful because it shows the most common words, but I think it would be better if similar answers were grouped together.
+Other responses: This was a written question, so students were able to share their own answers.
+Challenges: Some students had similar answers but used different words, which makes it harder to compare them.
+Improvement: I would give students a few options to choose from and include an Other option.
+
+Question 2: Do you have a second monitor connected to your computer?
+
+Conclusion: The chart shows that 54% answered No, 8% answered Yes, and 38% selected Other. After reading the responses, I noticed that some students who selected Other actually have a second monitor.
+Visualization: The chart is easy to read, but the results can be confusing because some Yes answers were counted as Other.
+Other responses: I found them by clicking More details. Some students wrote full sentences instead of just Yes or No.
+Challenges: Even though students gave similar answers, they were not all counted in the same category.
+Improvement: I would make this a multiple-choice question with only Yes and No as options.
+
+Question 3: Do you have an external keyboard and mouse?
+
+Conclusion: According to the chart, 54% answered No, 8% answered Yes, and 38% selected Other. Some students who selected Other said they have both devices.
+Visualization: The chart is helpful, but I don’t think it gives a completely accurate picture of the responses.
+Other responses: I clicked More details to see the answers. Some students have both devices, while others have only a mouse or were unsure.
+Challenges: It can be difficult to organize the answers because not everyone has the same equipment.
+Improvement: I would add options for both devices, only a keyboard, only a mouse, or neither.
+
+Question 4: How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else?
+
+Conclusion: The chart shows that 100% selected Other, but after looking at the responses, I noticed that students plan to use computers, notebooks, or both.
+Visualization: I don’t think the chart is very helpful because it doesn’t show the different ways students plan to take notes.
+Other responses: I found the answers by clicking More details. Many students gave similar answers about using their computers or writing in notebooks.
+Challenges: Since all the answers were grouped under Other, it was harder to see which method was more popular.
+Improvement: I would include Computer, Pen and Paper, Both, and Other as answer choices.
+
+Question 5: What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+
+Conclusion: I noticed that students are interested in learning about data analytics, AI, Python, and how these skills can help them in their careers.
+Visualization: The word cloud helps show common topics, but it doesn’t explain what each student is actually asking.
+Other responses: This was a written question, so everyone could ask whatever they wanted.
+Challenges: Students asked different questions, and some questions were related even though they were worded differently.
+Improvement: I would group the questions into topics like course expectations, technical skills, and career opportunities.
+Additional Questions
+
+6. Is there anything that surprised you about the survey responses?
+
+I was surprised that so many answers were grouped under Other, especially for question 4. After reading the responses, I realized that the chart didn’t really show what students selected or meant.
+
+7. Looking at questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions you are also curious about?
+
+I would like to start reviewing my notes a few minutes before class and making sure my computer is ready. I’m also curious about how we will use data analytics in real jobs and what skills we will learn throughout the program.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+
+If I were the instructor, I would use the survey to understand what students need help with and what they are interested in learning. I would also try to include more examples and resources based on their answers.
+
+9. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not?
+
+I think making the survey anonymous was helpful because students might feel more comfortable sharing their thoughts and concerns. At the same time, it could make it harder for the instructor to know who needs help.
