@@ -15,4 +15,4 @@ SELECT inventory_id, film_id
 FROM inventory;
 
 SELECT film_id, title
-FROM filn;
+FROM film;
