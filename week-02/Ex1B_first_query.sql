@@ -1,0 +1,2 @@
+/*Sakila is a database used to store information.
+*/
